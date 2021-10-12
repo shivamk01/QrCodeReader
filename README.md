@@ -1,1 +1,3 @@
 # QrCodeReader
+
+# add licence copyright
